@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![abettini's 42 stats](https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **ey-lon/ey-lon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
