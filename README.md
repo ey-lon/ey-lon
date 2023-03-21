@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![abettini's 42 stats](https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+> [![abettini's 42 stats](https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 ### What I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
 
 
 <!--
