@@ -2,12 +2,16 @@
 
 > [![abettini's 42 stats](https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-### What I'm learning:
-> [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
+### Languages and Tools:
+> ![My Skills](https://skillicons.dev/icons?i=c,bash,vscode,vim,github,git,photoshop)
 
 ### Contacts:
 > <a href="https://www.linkedin.com/in/alessandro-bettini-9b6a9126a/">![My Skills](https://skillicons.dev/icons?i=linkedin)</a>
+
+<!--
 <a href="https://www.instagram.com/eylon_vr/">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
+-->
+
 <!--
 **ey-lon/ey-lon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
