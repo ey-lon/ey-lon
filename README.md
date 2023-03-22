@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-> [![abettini's 42 stats](https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+<a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,bash,vscode,vim,github,git,photoshop" />
+    <img src="https://skillicons.dev/icons?i=c,bash,vscode,vim,github,git,photoshop"/>
 </p>
 
 ### Contacts:
-> <a href="https://www.linkedin.com/in/alessandro-bettini-9b6a9126a/">![My Skills](https://skillicons.dev/icons?i=linkedin)</a>
-
+<a  href="https://www.linkedin.com/in/alessandro-bettini-9b6a9126a/">![My Skills](https://skillicons.dev/icons?i=linkedin)</a>
+    
 <!--
 <a href="https://www.instagram.com/eylon_vr/">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
 -->
