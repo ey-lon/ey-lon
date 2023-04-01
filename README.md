@@ -2,7 +2,7 @@
 
 <a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,c,bash,vscode,vim,github,git,photoshop"/>
 </p>
