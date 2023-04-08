@@ -3,13 +3,13 @@
 <a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
 
 ### Languages and Tools:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,c,bash,vscode,vim,github,git,photoshop"/>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=linux,c,bash,vscode,vim,git,photoshop"/>
 </p>
 
 ### Contacts:
 <a  href="https://www.linkedin.com/in/alessandro-bettini-9b6a9126a/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
-    
+<a  href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
 <!--
 <a href="https://www.instagram.com/eylon_vr/">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
 -->
