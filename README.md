@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=linux,c,bash,vscode,vim,git,photoshop"/>
 </p>
 
-### Contacts:
+### Find me here:
 <a  href="https://www.linkedin.com/in/alessandro-bettini-9b6a9126a/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
 <a  href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
 <!--
