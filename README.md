@@ -1,6 +1,7 @@
 ## Hi there, I'm Eylon 👋
 ### I like Coding, VR and Art.
 
+## Some stats:
 <a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
 
 <table>
@@ -14,12 +15,12 @@
     </tr>
 </table>
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,bash,vscode,vim,git,photoshop"/>
 </p>
     
-### Find me here:
+## Find me here:
 <a  href="https://www.linkedin.com/in/a-bettini/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
 <a  href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
 
