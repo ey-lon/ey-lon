@@ -1,5 +1,5 @@
 ## Hi there, I'm Eylon 👋
-### I like Coding, VR and Art.
+### I'm into Coding, VR and Art.
 
 ## Some stats:
 <a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
