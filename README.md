@@ -21,9 +21,9 @@
 </p>
     
 ## Find me here:
-<a  href="https://www.linkedin.com/in/a-bettini/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
-<a  href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
-<a href="https://www.instagram.com/eylon_vr/">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
+<a href="https://www.linkedin.com/in/a-bettini/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
+<a href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
+<a href="https://www.instagram.com/eylon_vr/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
 
 <!--
 **ey-lon/ey-lon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
