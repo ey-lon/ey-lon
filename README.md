@@ -1,9 +1,12 @@
 ## Hi there, I'm Eylon 👋
 ### I'm into Coding, VR and Art.
 
-## Some stats:
-<a><img src="https://badge42.vercel.app/api/v2/clfi9m8y2002108l7i78jujoy/stats?cursusId=21&coalitionId=undefined"/>
+##
+### My 42 profile:
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/abettini?1337Badge=off&UM6P=off" alt="abettini's 42 stats" /></a>
 
+##
+### Some stats:
 <table>
     <tr>
         <a href="https://github.com/ey-lon">
@@ -15,19 +18,16 @@
     </tr>
 </table>
 
-## Languages and Tools:
+##
+### Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git,photoshop"/>
 </p>
-    
-## Find me here:
+
+##
+### Find me here:
 <a href="https://www.linkedin.com/in/a-bettini/">![Linkedin](https://skillicons.dev/icons?i=linkedin)</a>
 <a href="https://www.github.com/ey-lon/">![GitHub](https://skillicons.dev/icons?i=github)</a>
-
-<!--
-secret instagram
-<a href="https://www.instagram.com/eylon_vr/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
--->
 
 <!--
 **ey-lon/ey-lon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
