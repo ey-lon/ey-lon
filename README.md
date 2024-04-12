@@ -3,7 +3,7 @@
 
 ##
 ### My 42 profile:
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/abettini?1337Badge=off&UM6P=off" alt="abettini's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abettini?1337Badge=off&UM6P=off" alt="abettini's 42 stats" /></a>
 
 ##
 ### Some stats:
