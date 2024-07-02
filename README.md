@@ -21,7 +21,7 @@
 ##
 ### Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git,photoshop"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,git,docker,bash,photoshop"/>
 </p>
 
 ##
