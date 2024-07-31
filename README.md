@@ -1,9 +1,13 @@
-## Hi there, I'm Eylon 👋
-### I'm into Coding, VR and Art.
+##
+### About me:
+<p>Hi there, I'm Eylon 👋</p>
+<p>I'm into Coding, VR and Art.</p>
 
+<!--
 ##
 ### My 42 profile:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abettini?1337Badge=off&UM6P=off" alt="abettini's 42 stats" /></a>
+-->
 
 ##
 ### Some stats:
