@@ -25,7 +25,7 @@
 ##
 ### Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=flutter,c,cpp,javascript,html,git,docker,bash,photoshop"/>
+    <img src="https://skillicons.dev/icons?i=flutter,c,cpp,python,javascript,html,git,docker,bash,photoshop"/>
 </p>
 
 ##
