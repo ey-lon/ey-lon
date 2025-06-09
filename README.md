@@ -1,7 +1,7 @@
 ##
 ### About me:
 <p>Hi there, I'm Eylon 👋</p>
-<p>I'm into Coding, VR and Art.</p>
+<p>I'm into Coding, VR, Video-editing and Art.</p>
 
 <!--
 ##
